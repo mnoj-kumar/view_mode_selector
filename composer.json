@@ -1,0 +1,19 @@
+{
+  "name": "drupal/view_mode_selector",
+  "description": "Provides an interface to select and switch between view modes for entities.",
+  "type": "drupal-module",
+  "homepage": "https://www.drupal.org/project/view_mode_selector",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/view_mode_selector"
+  },
+  "license": "GPL-2.0+",
+  "require": {
+  },
+  "authors": [
+    {
+      "name": "Manoj Kumar",
+      "email": "manoj@ewayfarer.com",
+      "role": "Creator and Maintainer"
+    }
+  ]
+}
